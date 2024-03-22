@@ -26,6 +26,12 @@ Firstly, the user will be asked to enter one of 4 choices
 ## Quick Example
 ![image](https://github.com/AliElgemaey/Secure-Password-Manager/assets/114480187/4ca93788-43fc-4a87-a99e-cbfb32544fae)
 
+1. Option 1 was chosen
+2. Instagram was used as username
+3. Password entered was Joker_123
+4. key entered that decrypts password when required was 457
+5. Finally, Password added successfully to the secure password manager
+
 File after closing the application with saved data as seen below with username. Passwords and authorized keys are encrypted for security.
 
 ![image](https://github.com/AliElgemaey/Secure-Password-Manager/assets/114480187/382254a9-0a26-444d-b55e-4ab7c68c23aa)
